@@ -11,11 +11,11 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sierprinsky&theme=vue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sierprinsky&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sierprinsky&show_icons=true&theme=vue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sierprinsky&show_icons=true)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sierprinsky&layout=compact)](https://github.com/sierprinsky/github-readme-stats)
 
 
 
@@ -33,10 +33,6 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sierprinsky&label=Profile%20views&color=0e75b6&style=flat" alt="sierprinsky" /> </p>
-
-
-
-
 
 
 
